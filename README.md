@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nils 
-- 👀 I'm curerently an apprentice at the Unity AG
+- 👀 I'm currently an apprentice at Unity AG
 - 🌱 I’m learning C#, PowerShell and JavaScript at the moment
 
 <!---
